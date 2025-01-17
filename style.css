@@ -1,1 +1,13 @@
+footer h1{
+    height: 40px;
+    width: 129vh;
+    border: 1px solid rgb(24, 23, 23);
+    background-color: rgb(87, 83, 83);
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+     padding-top: 15px;
+    margin-top: 70vh;
+    margin-left:25vh;
 
+}
